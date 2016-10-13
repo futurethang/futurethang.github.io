@@ -1,0 +1,49 @@
+body {
+  background-color: #8BC34A;
+}
+
+h1 {
+
+}
+
+h3 {
+
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #757575;
+}
+
+.container {
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+.title {
+  font-family: 'Bitter', serif;
+  text-decoration: none;
+}
+
+.links {
+  /*border: 1px solid blue;*/
+  background-color: #FF5722;
+  height: 60px;
+  width: 100%;
+  padding: 20px 0 36px 0;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  text-decoration: none;
+  align-content: center;
+}
+
+.links:hover {
+  background-color: #FFCCBC;
+  /*border: 1px solid red;*/
+}
